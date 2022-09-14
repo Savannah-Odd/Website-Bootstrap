@@ -1,0 +1,18 @@
+.art{
+    background-color: yellow;
+    color: indianred;
+}
+.games{
+    background-color: darkblue;
+    color: blanchedalmond;
+}
+.bake{
+    background-color: darkorange;
+    color: rebeccapurple;
+}
+.jumbotron {
+    background-image:url(https://mail.google.com/mail/u/1?ui=2&ik=c07883bff9&attid=0.1&permmsgid=msg-f:1743960300189369410&th=1833caa7332bc442&view=fimg&fur=ip&sz=s0-l75-ft&attbid=ANGjdJ_7cgr9xO1KJI3IMAHkDamM_ie2_bNHYyF6eoD5Gzb1r4bvkuqeiaHOJu2RU10u_E-nKSgg1sGyrwEeEstPtDo2d0VWoGri0u5b3P_c6zXWHkqWcfXvfy3i2xo&disp=emb&realattid=ii_l81sjy5s0);
+    background-size: cover;
+    height: 300px;
+    color: aliceblue;
+}

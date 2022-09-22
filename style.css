@@ -1,3 +1,6 @@
+body {
+    background-color: darkgrey;
+}
 .art{
     background-color: yellow;
     color: indianred;
@@ -18,4 +21,8 @@
 }
 img  {
     height: 200px;
+}
+nav {
+    background-color: aquamarine;
+    font-size: 20px;
 }
